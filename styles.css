@@ -50,3 +50,15 @@ font-family: 'Fredericka the Great', cursive;
     font-size: 0.8rem;
     padding: 2.5rem 0;
 }
+
+.jumbotron {
+    float: left;
+}
+.cards{
+font-family: 'Fredericka the Great', cursive;
+}    
+
+.cardimage{
+ text-align: center;
+ width: 100%;
+}
